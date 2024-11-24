@@ -1,0 +1,48 @@
+CODE DOCUMENT-1 ( OPERATORS ):
+
+1. Camparison Operator
+2. Even Number Check
+3. a program that checks whether a given temperature is within a safe range.
+4. Create a function that takes two Boolean values as input. Return True if both values are True (using the and operator),
+    and return False if one or both values are False.Then modify the function to return True if either of the values is 
+    True (using the or operator).
+5. Increment and Decrement a Number
+
+
+CODE DOCUMENT-2 ( STRINGS ):
+
+1. Reverse String
+2. Palindrome Check
+3. String Concatenation
+4. A Python function to check if one string is a rotation of another string.
+5. A function that checks if two given strings are anagrams of each other.
+6. Count Words in a String
+7. Check if String Contains Only Digit9
+
+
+CODE DOCUMENT-3 ( IF-ELSE ):
+
+1. Leap Year Check
+2. Number Comparison
+3. Even or Odd
+4. Number Check - Positive/Negative/Zero
+5. Grading System
+6. Traffic Light System Simulation
+7. BMI Calculator
+8. Vowel or Consonant
+
+CODE DOCUMENT-4 ( FOR LOOP ):
+
+1. Print Numbers from 1 to 50
+2. Print the sum of first 100 Natural Numbers
+3. Multiplication Table
+4. Factorial Calculation
+5. Reverse a String
+6. Find Prime Numbers in a Range
+7. Fibonacci Series 
+8. Sum of Digits In List
+9. Count Vowels in a String
+10. Average Of List
+11. Determine UpperCase Letter In String
+12. Print Largest Number In List
+13. Print Reverse Numbers from 10 to 1
