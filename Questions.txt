@@ -9,18 +9,7 @@ CODE DOCUMENT-1 ( OPERATORS ):
 5. Increment and Decrement a Number
 
 
-CODE DOCUMENT-2 ( STRINGS ):
-
-1. Reverse String
-2. Palindrome Check
-3. String Concatenation
-4. A Python function to check if one string is a rotation of another string.
-5. A function that checks if two given strings are anagrams of each other.
-6. Count Words in a String
-7. Check if String Contains Only Digit9
-
-
-CODE DOCUMENT-3 ( IF-ELSE ):
+CODE DOCUMENT-2 ( CONDITIONAL STATEMENTS):
 
 1. Leap Year Check
 2. Number Comparison
@@ -31,7 +20,7 @@ CODE DOCUMENT-3 ( IF-ELSE ):
 7. BMI Calculator
 8. Vowel or Consonant
 
-CODE DOCUMENT-4 ( FOR LOOP ):
+CODE DOCUMENT-3 ( LOOPING STATEMENTS):
 
 1. Print Numbers from 1 to 50
 2. Print the sum of first 100 Natural Numbers
@@ -46,3 +35,15 @@ CODE DOCUMENT-4 ( FOR LOOP ):
 11. Determine UpperCase Letter In String
 12. Print Largest Number In List
 13. Print Reverse Numbers from 10 to 1
+
+
+
+CODE DOCUMENT ( STRINGS ):
+
+1. Reverse String
+2. Palindrome Check
+3. String Concatenation
+4. A Python function to check if one string is a rotation of another string.
+5. A function that checks if two given strings are anagrams of each other.
+6. Count Words in a String
+7. Check if String Contains Only Digit9

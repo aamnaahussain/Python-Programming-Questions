@@ -1,0 +1,81 @@
+Operators: Operators in Programming are Symbols or keywords that represents sctions or operations performed on Operands.
+
+TYPES:
+1. Arthimetic Operators
+2. Assignment Operators
+3. Comparison Operators
+4. Logical Operators
+5. Identity Operators
+6. Membership Operators
+7. Bitwise Operators
+
+
+
+---------------  Arthimetic Operators ---------------
+Addition (+)
+Subtraction (-)
+Multiplication(*)
+Division(/)
+Modulus(We get the Reminder, 5 % 2 = 1 )
+Exponention ( Is the power of 2 * 3 = 32)
+Floor Division ( Round the Results of Division to Whole Number 15 / 2 = 7 [instead of 7.5])
+
+
+---------------  Assignment Operators ---------------
+=   	x = 5             x = 5	
++=  	x += 3	          x = x + 3	
+-=  	x -= 3	          x = x - 3	
+*=  	x *= 3	          x = x * 3	
+/=  	x /= 3	          x = x / 3	
+%=  	x %= 3	          x = x % 3	
+//= 	x //= 3	          x = x // 3	
+**=   	x **= 3	          x = x ** 3	
+&=	    |=		^=		>>=	    <<=	
+
+
+---------------  Comparison Operators ---------------
+==	    Equal	                            x == y	
+!=	    Not equal	                        x != y	
+>	    Greater than	                    x > y	
+<	    Less than	                        x < y	
+>=	    Greater than or equal to	        x >= y	
+<=	    Less than or equal to	            x <= y
+
+
+---------------  Logical Operators ---------------
+and 	Returns True if both statements are true	                   	x = 5   print(x > 3 and x < 10)        True
+or	    Returns True if one of the statements is true	                x = 5   print(x > 3 or x < 4)          True           
+not	    Reverse the result, returns False if the result is true      	x = 5   print(not(x > 3 or x < 4))     False   
+
+
+---------------  Identity Operators ---------------
+is       x is y (Returns True If both objects points to the same memory location)
+[
+    x=5
+    y=5
+    x=z
+
+    x in y      False
+    z in x      True
+    x in z      True
+]
+
+is       x is not y(Returns True If both objects DON'T points to the same memory location)
+
+
+---------------  Membership Operators ---------------
+in 	       x in y (Returns True if a sequence with the specified value is present in the object)
+[
+    x = ["apple", "banana"]
+    print("banana" in x)            True
+]
+not in	    x not in y (Returns True if a sequence with the specified value is not present in the object)	
+
+---------------  Bitwise Operators ---------------
+& 	AND	                    Sets each bit to 1 if both bits are 1	                                                            	
+|	OR	                    Sets each bit to 1 if one of two bits is 1	                                                         	
+^	XOR	                    Sets each bit to 1 if only one of two bits is 1
+~	NOT	                    Inverts all the bits		
+<<	Zero fill left shift	Shift left by pushing zeros in from the right and let the leftmost bits fall off	                            x << 2	
+>>	Signed right shift	    Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off	        x >> 2
+
